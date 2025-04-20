@@ -1,0 +1,37 @@
+.cbt-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+  }
+  
+  .cbt-question-box {
+    margin-bottom: 20px;
+  }
+  
+  .cbt-options-list {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .cbt-option-item {
+    margin-bottom: 10px;
+  }
+  
+  .cbt-button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .cbt-result-box {
+    text-align: center;
+  }
+  

@@ -1,0 +1,72 @@
+    .pentagon {
+        background: red;
+        clip-path: polygon(50% -25%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+        color: white;
+    }
+
+.btn-size {
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+
+    div {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: bold;
+        transition: transform 0.2s;
+
+    }
+
+    &:hover {
+        transform: scale(1.05);
+    }
+}
+
+
+
+.no-visited-wrapper {
+    color: black;
+
+    div {
+        background-color: #ebeaea;
+        border: 1px solid grey;
+    }
+}
+
+.no-visited-wrapper {
+    color: black;
+
+    div {
+        background-color: #ebeaea;
+        border: 1px solid grey;
+    }
+}
+
+.no-answered-wrapper {
+    div {
+        background: red;
+    }
+
+}
+.answered-wrapper {
+    div {
+        background: rgba(33, 138, 33, 0.8);
+    }
+
+}
+.marked-btn{
+    border-radius: 360px;
+    background-color: rgb(187, 85, 187);
+    position: relative;
+    .tick{
+        background-color: rgb(33, 138, 33);
+        border-radius: 360px;
+        width: 14px;
+        height: 14px;
+        position: absolute;
+        right: 4px;
+        bottom: 5px;
+    }
+}
