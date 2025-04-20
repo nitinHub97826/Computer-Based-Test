@@ -4,7 +4,7 @@ import { useScreen } from '../NTARouting';
 import { currentUser } from '../sampleData';
 
 const Welcome = (props) => {
-    const userName = "John Doe"; // Example user name
+    const userName = currentUser.name; // Example user name
     const userPhoto = currentUser.photo;// Example user photo URL
 
     const proceedToTest = () => {
