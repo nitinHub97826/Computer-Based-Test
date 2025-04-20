@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/computer-based-test/static/css/main.ea9c599e.css",
+    "main.js": "/computer-based-test/static/js/main.eb2200db.js",
+    "index.html": "/computer-based-test/index.html",
+    "main.ea9c599e.css.map": "/computer-based-test/static/css/main.ea9c599e.css.map",
+    "main.eb2200db.js.map": "/computer-based-test/static/js/main.eb2200db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea9c599e.css",
+    "static/js/main.eb2200db.js"
+  ]
+}
