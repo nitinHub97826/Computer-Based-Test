@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/computer-based-test/static/css/main.ea9c599e.css",
-    "main.js": "/computer-based-test/static/js/main.eb2200db.js",
-    "index.html": "/computer-based-test/index.html",
-    "main.ea9c599e.css.map": "/computer-based-test/static/css/main.ea9c599e.css.map",
-    "main.eb2200db.js.map": "/computer-based-test/static/js/main.eb2200db.js.map"
+    "main.css": "/Computer-Based-Test/static/css/main.ea9c599e.css",
+    "main.js": "/Computer-Based-Test/static/js/main.d8dc6064.js",
+    "index.html": "/Computer-Based-Test/index.html",
+    "main.ea9c599e.css.map": "/Computer-Based-Test/static/css/main.ea9c599e.css.map",
+    "main.d8dc6064.js.map": "/Computer-Based-Test/static/js/main.d8dc6064.js.map"
   },
   "entrypoints": [
     "static/css/main.ea9c599e.css",
-    "static/js/main.eb2200db.js"
+    "static/js/main.d8dc6064.js"
   ]
 }
